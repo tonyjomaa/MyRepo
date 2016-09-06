@@ -1,0 +1,15 @@
+' Windows 8.1 64bit Office 2013
+'
+305 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Performance\CS_PerformanceWord_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTWordScrolling.txt
+302 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdr_OL2013_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\AppRdr_Outlook2013.txt
+'
+' Windows 8.1 64bit Office 2016 32 Bit
+'
+480 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\xFont\CS_xFont_Word1632_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\xFont_Word1632.txt
+'
+'303 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\CS_DocRdr_OL2013_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZT_DocRdr_Outlook2013.txt
+'374 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Performance\CS_PerfDR_Word2013_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZT_DRPerf_Word2013.txt
+'425 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_Fusion\CS_Fusion_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\FusionSmoke.txt
+'432 \\AI2S-LAB01\qalab\ATS\ATM\atm_resources\ZT_Fusion\Activation\CS_FUActivatation_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\Fusion_Results\Win8164\FusionActivation.txt
+'426 \\AI2S-LAB01\qalab\ATS\ATM\atm_resources\ZT_Fusion\AppReader\CS_FU_AppRdr_Notepad_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\FusionAppRdrNotepad.txt
+'502 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\Jaws\Setup\CS_J_Setup_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZT_JAWS_Smoke.txt

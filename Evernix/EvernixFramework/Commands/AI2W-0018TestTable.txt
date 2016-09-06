@@ -1,0 +1,22 @@
+' Window Eyes Auto Tests
+'
+' retired tests
+'137 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win732.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win732\ZTSmokeStarts.txt
+'138 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win732.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win732\ZTSmokeExits.txt
+'139 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win732.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win732\ZTSmokeUninstalls.txt
+'187 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win732.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win732\ZTSmokecrash.txt
+'140 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win764\ZTSmokeStarts.txt
+'141 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win764\ZTSmokeExits.txt
+'142 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win764\ZTSmokeUninstalls.txt
+'256 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_101\CS_ZTSmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win764\ZTSmokeCrash.txt
+'
+' Windows 8.1 64 bit
+353 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\ZT_WE_InstallOrder.txt
+354 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\ZT_WE_WorkOrder.txt
+'355 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\ZT_WE_ExitOrder.txt
+'356 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\WE_ZT_ExitOrder.txt
+357 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\WE_Update.txt
+358 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\WEUpdated_ZT_ExitOrder.txt
+359 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\ZT_WEUpdated_ExitOrder.txt
+360 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Win8164_OrderOne.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\ShutdownWhileZTWEAreUp.txt
+381 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\WindowEyes\CS_WE_ZT_Tracking_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT10_Results\Win8164\Harpoon_Tracking.txt

@@ -1,0 +1,50 @@
+' Windows 7 64bit Office 2010
+' 
+140 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTSmokeStarts.txt
+141 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTSmokeExits.txt
+142 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTSmokeUninstalls.txt
+258 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTActivation.txt
+256 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTSmokecrash.txt
+281 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_StartsNonAero.txt
+314 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Smoke\CS_SmokeSM_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_FV_Verification.txt
+282 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_StartMenu_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ProgramEcho_StartMenu_Aero.txt
+283 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_StartMenu_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Tracking_StartMenu_Aero.txt
+286 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\SwitchingTask\CS_SwitchingTasks_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\SwitchingTasks_Aero.txt
+304 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\SwitchingTask\CS_SwitchingTasks_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Track_AltTab.txt
+290 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_WinTab_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ProgramEchoWinTab_Aero.txt
+294 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_WinTab_Aero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\TrackingWinTab_Aero.txt
+292 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdr_Word2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\AppRdr_Word2010.txt
+350 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\TypingEcho\CS_TypingEcho_Word2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\TypingEchoWord2010.txt
+364 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdrResume_Word2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\AppRdrResume_Word2010.txt
+450 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Tracking\CS_TRK_OL2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Track_Outlook2010.txt
+495 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Echo\CS_EchoInbox_OL2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\EchoInbox_OL2010.txt
+287 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\SwitchingTask\CS_SwitchingTasks_NonAero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\SwitchingTasks_NonAero.txt
+284 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_StartMenu_NonAero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ProgramEcho_StartMenu_NonAero.txt
+285 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_StartMenu_NonAero_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Tracking_StartMenu_NonAero.txt
+'
+' Windows 7 64bit Office 2013
+'
+351 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\TypingEcho\CS_TypingEcho_Word2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\TypingEchoWord2013.txt
+363 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdrResume_Word2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\AppRdrResume_Word2013.txt
+367 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdrResume_NP_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\AppRdrResume_Notepad.txt
+398 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Enhancement\CS_FocusEnh_Menu_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\FocusEnh.txt
+402 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Enhancement\CS_FocusEnh_EditBox_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\FocusEnh.txt
+492 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Tracking\CS_TRK_OL2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Track_Outlook2013.txt
+497 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Echo\CS_EchoInbox_OL2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\EchoInbox_OL2013.txt
+'
+'Activation issue prevents 388 to put online
+'388 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Compatibility\CS_ZT_IR_Tracking_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_IR_Tracking.txt
+'Not Ready 340-342
+'340 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\French\CS_Win8164_CDSmoke_French.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTSmokeStarts_French.txt
+'341 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\German\CS_Win8164_CDSmoke_German.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTSmokeStarts_German.txt
+'344 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\Swedish\CS_Win8164_CDSmoke_Swedish.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTSmokeStarts_Swedish.txt
+'343 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\Spanish\CS_Win8164_CDSmoke_Spanish.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTSmokeStarts_Spanish.txt
+'342 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\Japanese\CS_Win8164_CDSmoke_Japanese.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTSmokeStarts_Japanese.txt
+'395 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\xFont\CS_xFont_WikiChrome_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\xFontWiki_Chrome.txt
+'396 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdr_Chrome_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\AppRdr_ChromeBeta32.txt
+'501 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\Jaws\Setup\CS_J_Setup_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_JAWS_Smoke.txt
+'379 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Performance\CS_PerfDR_Word2010_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_DRPerf_Word2010.txt
+' update test
+'315 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\CS_Evernix_UpdateViaWizard_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZTUpdateViaWizard.txt
+'378 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Performance\CS_PerfDR_Word2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_DRPerf_Word2013.txt
+'369 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Performance\CS_PerfDocReader_NP_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_DR_Notepad.txt
