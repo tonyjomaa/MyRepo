@@ -30,7 +30,16 @@ Function startTestFunc(TestID,CS,RF,MachineTaskFolder,Build,copyCS)
   End If
   'Write to a management file
   ForceWriteFunc TestID,Build,CS
-  If copyCS Then fso.CopyFile CS, MachineTaskFolder
+  
+  If copyCS Then 
+    
+    If fso.FileExists(CS) Then 
+      fso.CopyFile CS, MachineTaskFolder
+    Else
+      LogToFileFunction "Error - could not find: " & CS, "", Now, "Is the network, or that file, available?"
+    End If
+  
+  End If
   
   TaskFilePath = ""
   GetTaskFilePath TaskFilePath, CS, MachineTaskFolder
