@@ -15,7 +15,7 @@
 '
 ' ********************************************************************************
 
-'On Error Resume Next 
+On Error Resume Next 
 Include "StartTestAndLog.vbs"
 '************* declarations  *********************************************************//
 file="D:\ShareThis\EVXCommand11\AI2W0038TestTable.txt"

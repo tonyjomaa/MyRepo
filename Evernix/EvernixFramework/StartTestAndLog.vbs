@@ -35,6 +35,10 @@ Function startTestFunc(TestID,CS,RF,MachineTaskFolder,Build,copyCS)
     
     If fso.FileExists(CS) Then 
       fso.CopyFile CS, MachineTaskFolder
+      If Err.Number <> 0 Then
+        Err.Clear
+        LogToFileFunction "Error - while coping: " & CS, " to machine task folder: " & MachineTaskFolder, Now, "Is the network, or that file, available?"
+      End If  
     Else
       LogToFileFunction "Error - could not find: " & CS, "", Now, "Is the network, or that file, available?"
     End If
