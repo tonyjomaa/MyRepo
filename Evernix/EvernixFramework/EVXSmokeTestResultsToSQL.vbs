@@ -1,6 +1,6 @@
 ' ********************************************************************************
 '
-' Copyright (c) 2011-2014, Algorithmic Implementations, Inc. (dba Ai Squared)
+' Copyright (c) 2011-2016, Algorithmic Implementations, Inc. (dba Ai Squared)
 ' All Rights Reserved.
 '
 ' Developer:     Tony Jomaa
@@ -108,7 +108,7 @@ If TestSPID = 2 Or TestSPID = 59 Or TestSPID = 78 Or TestSPID = 79 Or TestSPID =
 	timeoutfunc Build,TestSPID,True
 	WScript.Quit(0)
   End If
-ElseIf TestSPID = 199 Or TestSPID = 208 Or TestSPID = 193 Then
+ElseIf TestSPID = 199 Or TestSPID = 208 Or TestSPID = 193 Or TestSPID = 234 Or TestSPID = 248 Or TestSPID = 393 Or TestSPID = 392 Or TestSPID = 394 Then
   If count >= 240 Then  ' 240 x 30 seconds = 2 hour
 	timeoutfunc Build,TestSPID,True
 	WScript.Quit(0)
