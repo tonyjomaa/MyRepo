@@ -75,6 +75,6 @@ run("Q:\ATS\AutoTasks\ExitZTEvernix.vbs")
 run("Q:\ATS\AutoTasks\parseZT101logfiles.vbs")
 run("Q:\ATS\AutoTasks\CopyLogFilesZT101.vbs")
 run("Q:\ATS\AutoTasks\EVXCheckForCrashdump.vbs")
-run("Q:\ATS\AutoTasks\WriteResultsEvxToFile.vbs \\ai2s-lab02\D\ShareThis\EVXResults\ResultsEvxStabMemWin864Rev2.txt")
+run("Q:\ATS\AutoTasks\WriteResultsEvxToFile.vbs D:\ShareThis\EVXResults\ResultsEvxStabMemWin864Rev2.txt")
 run("Q:\ATS\AutoTasks\emaileverest.vbs ajomaa@aisquared.com ZT_Evernix_Stress_Memory_Win8164_TestID_248")
 Delete
