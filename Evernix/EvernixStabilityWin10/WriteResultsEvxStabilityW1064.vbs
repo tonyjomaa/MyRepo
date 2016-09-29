@@ -20,7 +20,7 @@ pathfiletext.Close
 Set pathfile=Nothing
 Set pathfiletext=Nothing
 
-resultfile = "D:\ShareThis\EVXResults\ResultsEvxStabilityWin1064.txt"
+resultfile = "\\ai2s-lab02\D\ShareThis\EVXResults\ResultsEvxStabilityWin1064.txt"
 'Result = "PASSED"
 
 'Set f2 = objfso.GetFile("d:\Utils\grade.txt")
