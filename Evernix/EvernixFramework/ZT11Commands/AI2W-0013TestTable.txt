@@ -31,6 +31,8 @@
 402 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Enhancement\CS_FocusEnh_EditBox_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\FocusEnh.txt
 492 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Tracking\CS_TRK_OL2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\Track_Outlook2013.txt
 497 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Echo\CS_EchoInbox_OL2013_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\EchoInbox_OL2013.txt
+542 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Geometric\CS_GeoSmoothing_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\GeometricSmoothing.txt
+'
 '
 'Activation issue prevents 388 to put online
 '388 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Compatibility\CS_ZT_IR_Tracking_Win764.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win764\ZT_IR_Tracking.txt
