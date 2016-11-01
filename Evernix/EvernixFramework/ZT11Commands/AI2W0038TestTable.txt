@@ -28,6 +28,7 @@
 459 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\xFont\CS_xFont_WikiIE11_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\xFont_Wiki_IE11.txt
 543 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_TRK_StartMenu_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\TrackingStartMenu.txt
 544 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_FE_StartMenu_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\FEStartMenu.txt
+545 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\StartMenu\CS_Echo_StartMenu_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\EchoStartMenu.txt
 '
 ' WIndows 764 Office 2007
 '
