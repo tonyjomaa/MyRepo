@@ -57,6 +57,8 @@
 469 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Tracking\CS_TRK_OL2016_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\Track_Outlook2016.txt
 473 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Echo\CS_EchoInbox_OL2016_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\EchoInbox_OL2016.txt
 444 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\AppReader\CS_AppRdrResume_Word2016_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\AR_Resume_Word2016.txt
+549 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Office365\CS_AppView_Word2016_36532_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\AppView_Word2016_36532.txt
+550 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Office365\CS_TextView_Word2016_36532_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\TextView_Word2016_36532.txt
 '
 ' update test
 '316 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\CS_Evernix_UpdateViaWizard_Win8164.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win8164\ZTUpdateViaWizard.txt
