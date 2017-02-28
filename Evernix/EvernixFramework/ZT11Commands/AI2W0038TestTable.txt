@@ -45,6 +45,8 @@
 489 \\AI2S-LAB01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\US\CS_Win1032_CDSmoke_US.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1032\ZT_FV_Verification_US.txt
 491 \\AI2S-LAB01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\US\CS_Win1032_CDSmoke_US.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1032\ZTActivation.txt
 490 \\AI2S-LAB01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\US\CS_Win1032_CDSmoke_US.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1032\ZTSmokeCrash_US.txt
+341 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\German\CS_Win1064_CDSmoke_German.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\ZTSmokeStarts_German.txt
+343 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\Localized\German\CS_Win1064_CDSmoke_Spanish.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\ZTSmokeStarts_Spanish.txt
 '
 '500 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\Jaws\Setup\CS_J_Setup_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\ZT_JAWS_Smoke.txt
 '391 \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT_11\CS_ZT_IR_Tracking_Win1064.txt \\ai2s-lab01\qalab\ATS\ATM\atm_resources\ZT11_Results\Win1064\ZT_IR_Tracking.txt
