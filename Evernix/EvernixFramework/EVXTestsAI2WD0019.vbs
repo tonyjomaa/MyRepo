@@ -1,6 +1,6 @@
 ' ********************************************************************************
 '
-' Copyright (c) 2011-2014, Algorithmic Implementations, Inc. (dba Ai Squared)
+' Copyright (c) 2017, Abacus Automation
 ' All Rights Reserved.
 '
 ' Developer:     Tony Jomaa
